@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace YOUR-DOMAIN.store with the actual registered domain before launch. -->
+  <url><loc>https://YOUR-DOMAIN.store/</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/shop.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/categories.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/deals.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/businesses.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/info.html?section=faq</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/info.html?section=shipping</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/info.html?section=returns</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/info.html?section=privacy</loc></url>
+  <url><loc>https://YOUR-DOMAIN.store/info.html?section=terms</loc></url>
+</urlset>

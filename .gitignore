@@ -1,0 +1,15 @@
+node_modules/
+.env
+/data/
+/uploads/*
+!/uploads/.gitkeep
+*.log
+.DS_Store
+
+/public/uploads/*
+!/public/uploads/products/
+!/public/uploads/reviews/
+/public/uploads/products/*
+!/public/uploads/products/.gitkeep
+/public/uploads/reviews/*
+!/public/uploads/reviews/.gitkeep
